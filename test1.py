@@ -1,6 +1,5 @@
 a="harry is good"
 print(len(a))
-print(a[-5:-1])
 print(a)
 print(a.endswith("good"))
 print(a.count("o"))
